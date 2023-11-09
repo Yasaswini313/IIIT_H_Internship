@@ -18,6 +18,6 @@
 
 8. Footer (content related to the webpage you chose)
 
-** You should be able to create app pages that show smooth responsive behavior that adapts to screen size as well as device type.**
+**You should be able to create app pages that show smooth responsive behavior that adapts to screen size as well as device type.**
 
-** The webpage theme and design are your choice.**
+**The webpage theme and design are your choice.**
