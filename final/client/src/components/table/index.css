@@ -1,0 +1,17 @@
+th,tr,td{
+    background: linear-gradient(145deg, #7593ff, #4a4df9);
+    box-shadow:  2px 2px 5px #7593ff,-5px -5px 5px #4a4df9;
+    border-radius: 5px;
+    padding: 10px;
+}
+table{
+    width: 100%;
+}
+td,tr{
+    box-shadow:  2px 2px 0px #585859,-5pa -5px 0px #f3f4fb;
+}
+td:hover{
+    background: #e3e2e2;
+    box-shadow: inset 5px 5px 11px #7593ff,inset -5px -5px 11px #4a4df9;
+
+}

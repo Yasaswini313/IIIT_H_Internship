@@ -1,0 +1,39 @@
+.sidebar{
+    background: linear-gradient(145deg, #f0f0f0, #cacaca);
+    box-shadow:  2px 2px 5px #7593ff;
+    background: linear-gradient(145deg,  #7593ff, #4a4df9);
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+    text-align: left;
+    padding:35px ;
+    position: absolute !important;
+    left: -1000px;
+    z-index: 2;
+}
+.links{
+    margin: 20px 0;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    color: black;
+}
+.sidebar div{
+    display: flex;
+    flex-direction: column;
+}
+.links{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    padding-top: 5px;
+}
+.links .icon{
+    margin:2px ;
+}
+.links:hover{
+    text-shadow: 2px 4px 10px green;
+}
+.icon{
+    color: black;
+}

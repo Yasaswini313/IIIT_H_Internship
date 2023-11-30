@@ -1,0 +1,29 @@
+.form-container{
+    background: linear-gradient(145deg,  #7593ff, #4a4df9);
+    border-radius: 10px;
+    box-shadow:  2px 2px 5px #7593ff,-5px -5px 5px #4a4df9;
+    padding: 30px;
+    color: 060606;
+    font-weight: 500;
+    min-height: 100vh;
+    margin: 20px;
+    
+    
+}
+.input{
+    margin: 5px 0;
+    width: 100%;
+    color: #060606;
+    font-weight: 500;
+    padding: 5px 10px;
+}
+.check{
+    margin: 5px;
+}
+.mt{
+    margin: 20px 0 ;
+}
+.warning{
+    color: crimson;
+    margin: 20px 10px ;
+}

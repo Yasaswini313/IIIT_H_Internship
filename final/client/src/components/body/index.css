@@ -1,0 +1,234 @@
+html{
+    scroll-behavior: smooth;
+}
+.card {
+    width: 200px;
+    height: 300px;
+    perspective: 1000px;  
+    background-repeat: no-repeat;
+    margin: 30px 10px;
+}
+.cards-section{
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cards-container{
+    /* background: url("https://res.cloudinary.com/dhrxxm585/image/upload/v1699948567/Desktop_Wallpaper_Spongebob_gx9cpz.jpg"); */
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    border-radius: 30px;
+    justify-content: center;
+    /* body:space-between; */
+    /* overflow-x: auto;
+    flex-wrap: nowrap; */
+    /* height: 100%; */
+    flex-wrap: wrap;
+}
+
+
+
+.front{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    /* backface-visibility: hidden; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eed74d;
+}
+
+.front {
+    background-color: #f0f0f0;
+    background: transparent !important;
+    color: #0e5f76;
+}
+
+
+.body{
+    overflow: auto;
+    width: 100%;
+    height: 90vh;
+    /* background: linear-gradient(145deg, #f0f0f0, #cacaca); */
+    background: linear-gradient(120deg, #488cf3, #eae8e8, #0663ef);
+
+}
+
+.emoji{
+    width: 120px;
+}
+
+.table-container{
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cricket{
+    width: 200px;
+    height: 322px;
+    border-radius: 10%;
+}
+
+.cricket11{
+    width: 200px;
+    height: 322px;
+    border-radius: 10%;
+}
+
+.cricket33{
+    width: 200px;
+    height: 322px;
+    border-radius: 10%;
+}
+.right-most .cartoon{
+    background-color: black;
+}
+.form-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    width: 100vw;
+    overflow-x: auto;
+}
+.fun{
+    background: linear-gradient(120deg, #488cf3, #eae8e8, #0663ef);
+    box-shadow:  2px 2px 5px #e6e6e2,-5px -5px 5px #393933;
+    padding: 10px;
+    margin: 10px;
+}
+#charts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+/* 
+@media (max-width:821px) {
+    .card{
+        width: 100px;
+        height:150px ;
+        font-size: 10px;
+        margin: 0 5px; 
+    }
+    .cricket{
+        width: 100px;
+        height: 250px;
+        border-radius: 3000px;
+    }
+    
+    .cricket11{
+        width: 100px;
+        height: 20%;
+        border-radius: 3000px;
+    }
+
+    .cricket33{
+        width: 100px;
+        height: 10%;
+        border-radius: 3000px;
+    }
+
+} */
+
+@media (max-width:425px) {
+    /* .card{
+        width: 80px;
+        height: 120px;
+        font-size: 8px;
+        margin: 0 3px; 
+    } */
+    .footer{
+        font-size: 8px !important;
+    }
+}
+
+@media (max-width:576px) {
+    .table-container{
+        font-size: 12px;
+        width: 100vw;
+        overflow: auto;
+    }
+    .table{
+        width: 100%;
+    }
+    table{
+        width: 100% !important;
+    }
+}
+
+.front {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+  }
+  
+  .content {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-container {
+    /* flex: 1; */
+  }
+  .image-container img{
+    width: 174px;
+    height: 235px;
+  }
+  
+  .cricket {
+    /* width: 100%; */
+     /* Adjust as needed */
+    /* height: 20%; */
+     /* Maintain aspect ratio */
+  }
+
+  .cricket11 {
+    width: 100%; /* Adjust as needed */
+    height: 20%; /* Maintain aspect ratio */
+  }
+
+  
+  .cricket33 {
+    width: 100%; /* Adjust as needed */
+    height: 20%; /* Maintain aspect ratio */
+  }
+
+
+  .box.content-box {
+    /* Add your styles here */
+    border: 2px solid #090909;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 6px;
+    /* height: 100%; */
+    /* Add any other styles you need */
+}
+.content{
+    justify-content: center;
+    text-align: center;
+}
+.content-box h1{
+    font-size: 20px;
+}
+.content-box p{
+    font-size: 12px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.content-box button{
+    background-color: #0663ef;
+    border: none;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}

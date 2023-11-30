@@ -1,0 +1,10 @@
+.footer{
+    margin: 20px 0 0 0 ;
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+}
+.footer .links{
+    margin: 0;
+    padding: 0;
+}

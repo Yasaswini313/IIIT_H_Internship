@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 0.5s;
+    letter-spacing: 2px;
+    background-position: center;
+}
+body{
+    background: linear-gradient(145deg, #7593ff, #4a4df9);
+}
+::-webkit-scrollbar{
+    width: 0px;
+}
+
+.navbar{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    padding: 20px 30px ;
+    background-image: linear-gradient(145deg, #b3b3ae, #20201e);
+    box-shadow:  2px 2px 5px #5a5a5a,-5px -5px 11px #ffffff;
+    position: sticky;
+    background: transparent !important;
+
+}
+.searchbar-container{
+    display: flex;
+    margin-left: auto;
+    justify-content: flex-end;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 0 10px;
+    background: linear-gradient(145deg, #f0f0f0, #cacaca);
+    background: linear-gradient(145deg, #7593ff, #4a4df9);
+
+    box-shadow:  5px 5px 5px #5a5a5a,-5px -5px 5px #ffffff;
+    box-shadow:  2px 2px 5px #7593ff,-5px 0px 5px #4a4df9;
+
+
+}
+.search-bar{
+    border: none;
+    outline: none;
+    padding: 5px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 2px;
+    background-color: transparent;
+    
+}
+.search-bar::placeholder{
+    color: #0e5f76;
+    letter-spacing: 2px;
+}
+.search-bar:placeholder-shown{
+    color: #0e5f76;
+}
+.search-icon,.icon{
+    font-size: 14px;
+    color: #0e5f76;
+    margin: 2px;
+}
+
+.menu-button{
+    padding: 5px 10px;
+    border: none;
+    cursor:pointer;
+    border-radius: 8px;
+    background: linear-gradient(145deg, #f0f0f0, #cacaca);
+    background: linear-gradient(145deg,  #7593ff, #4a4df9);
+
+    box-shadow:  2px 2px 5px #7593ff,-5px -5px 5px #4a4df9;
+}
+.menu-button:hover,.searchbar-container:hover{
+    border-radius: 8px;
+    background: linear-gradient(145deg, #cacaca, #f0f0f0);
+    background: linear-gradient(145deg,  #7593ff, #4a4df9);
+
+    box-shadow:  5px 5px 11px #7593ff,-5px -5px 11px #4a4df9;
+}
+.menu-button:active, .searchbar-container:active{
+    background: #7593ff;
+    box-shadow: inset 5px 5px 11px #7593ff,inset -5px -5px 11px #4a4df9;
+}
+
+table span{
+    background-color: crimson !important;
+    color: #ffffff !important;
+}
