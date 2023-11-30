@@ -1,0 +1,1036 @@
+.home-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home-page .div {
+    background-color: #ffffff;
+    height: 4088px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .home-page .overlap {
+    height: 860px;
+    left: 120px;
+    position: absolute;
+    top: 207px;
+    width: 1680px;
+  }
+  
+  .home-page .overlap-group {
+    height: 859px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1680px;
+  }
+  
+  .home-page .ellipse {
+    background-color: #63757ccc;
+    border-radius: 87px/217.5px;
+    filter: blur(134px);
+    height: 435px;
+    left: 1311px;
+    position: absolute;
+    top: 322px;
+    width: 174px;
+  }
+  
+  .home-page .rectangle {
+    height: 533px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1680px;
+  }
+  
+  .home-page .img {
+    height: 533px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1680px;
+  }
+  
+  .home-page .text-wrapper {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 64px;
+    font-weight: 800;
+    left: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 59px;
+    width: 411px;
+  }
+  
+  .home-page .lost-in-space {
+    height: 767px;
+    left: 858px;
+    object-fit: cover;
+    position: absolute;
+    top: 1px;
+    width: 767px;
+  }
+  
+  .home-page .group {
+    height: 145px;
+    left: 1338px;
+    position: absolute;
+    top: 325px;
+    width: 268px;
+  }
+  
+  .home-page .overlap-group-2 {
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0px 4px 4px #ffffff40, 0px 20px 39px -12px #63757c66;
+    height: 145px;
+    position: relative;
+    width: 266px;
+  }
+  
+  .home-page .text-wrapper-2 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 70px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 28px;
+  }
+  
+  .home-page .div-2 {
+    background-color: #a9c2cb;
+    border-radius: 12px;
+    height: 40px;
+    left: 20px;
+    position: absolute;
+    top: 20px;
+    width: 40px;
+  }
+  
+  .home-page .group-2 {
+    height: 32px;
+    left: 3px;
+    position: absolute;
+    top: 8px;
+    width: 34px;
+  }
+  
+  .home-page .OBJECTS {
+    height: 44px;
+    left: 36px;
+    position: absolute;
+    top: 80px;
+    width: 193px;
+  }
+  
+  .home-page .overlap-wrapper {
+    height: 130px;
+    left: 1024px;
+    position: absolute;
+    top: 729px;
+    width: 464px;
+  }
+  
+  .home-page .overlap-2 {
+    height: 130px;
+    position: relative;
+  }
+  
+  .home-page .group-wrapper {
+    height: 130px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 464px;
+  }
+  
+  .home-page .overlap-group-wrapper {
+    height: 130px;
+    width: 468px;
+  }
+  
+  .home-page .overlap-group-3 {
+    background-color: #020305;
+    border-radius: 24px;
+    box-shadow: 0px 20px 39px -12px #63757c66;
+    height: 130px;
+    position: relative;
+    width: 464px;
+  }
+  
+  .home-page .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 70px;
+    letter-spacing: 12px;
+    line-height: normal;
+    position: absolute;
+    top: 80px;
+  }
+  
+  .home-page .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 70px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+  }
+  
+  .home-page .stopwatch {
+    background-image: url(https://c.animaapp.com/3oUarRBs/img/combo-sape.svg);
+    background-size: 100% 100%;
+    box-shadow: 0px 4px 7px #63757bcc;
+    height: 20px;
+    left: 32px;
+    position: absolute;
+    top: 30px;
+    width: 17px;
+  }
+  
+  .home-page .frame-wrapper {
+    height: 199px;
+    left: 799px;
+    position: absolute;
+    top: 410px;
+    width: 337px;
+  }
+  
+  .home-page .frame {
+    height: 199px;
+  }
+  
+  .home-page .overlap-3 {
+    height: 199px;
+    position: relative;
+    width: 339px;
+  }
+  
+  .home-page .div-wrapper {
+    height: 199px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 339px;
+  }
+  
+  .home-page .overlap-group-4 {
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0px 20px 39px -12px #63757c66;
+    height: 199px;
+    position: relative;
+    width: 337px;
+  }
+  
+  .home-page .text-wrapper-5 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 70px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+  }
+  
+  .home-page .OBJECTS-2 {
+    height: 98px;
+    left: 20px;
+    position: absolute;
+    top: 80px;
+    width: 191px;
+  }
+  
+  .home-page .OBJECTS-3 {
+    height: 95px;
+    left: 222px;
+    position: absolute;
+    top: 83px;
+    width: 95px;
+  }
+  
+  .home-page .chart-pie {
+    background-image: url(https://c.animaapp.com/3oUarRBs/img/combo-shape.svg);
+    background-size: 100% 100%;
+    box-shadow: 0px 4px 7px #63757bcc;
+    height: 20px;
+    left: 30px;
+    position: absolute;
+    top: 30px;
+    width: 20px;
+  }
+  
+  .home-page .frame-2 {
+    align-items: center;
+    background-color: var(--x-0d-0f-12);
+    border-radius: 20px;
+    box-shadow: 0px 19px 45px -10px #0d0f1280;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 0;
+    overflow: hidden;
+    padding: 26px 54px;
+    position: absolute;
+    top: 778px;
+  }
+  
+  .home-page .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home-page .at-odissey-our {
+    color: #171e27;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 572px;
+    width: 701px;
+  }
+  
+  .home-page .text-wrapper-7 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 322px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 803px;
+  }
+  
+  .home-page .play-wrapper {
+    background-color: #a9c2cb;
+    border-radius: 12px;
+    height: 40px;
+    left: 533px;
+    position: absolute;
+    top: 799px;
+    width: 40px;
+  }
+  
+  .home-page .play {
+    background-image: url(https://c.animaapp.com/3oUarRBs/img/play.svg);
+    background-size: 100% 100%;
+    box-shadow: 0px 4px 7px #63757bcc;
+    height: 20px;
+    left: 10px;
+    position: relative;
+    top: 10px;
+    width: 20px;
+  }
+  
+  .home-page .odyssey {
+    height: 32px;
+    left: 120px;
+    position: absolute;
+    top: 77px;
+    width: 205px;
+  }
+  
+  .home-page .text-wrapper-8 {
+    color: #020305;
+    font-family: "AMAZONIC PERSONAL USE-Bold", Helvetica;
+    font-size: 26px;
+    font-weight: 700;
+    left: 120px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3881px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-9 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 1511px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 81px;
+  }
+  
+  .home-page .text-wrapper-10 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 1361px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 81px;
+  }
+  
+  .home-page .text-wrapper-11 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 1224px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 81px;
+  }
+  
+  .home-page .text-wrapper-12 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 1034px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 81px;
+  }
+  
+  .home-page .text-wrapper-13 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 1159px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3881px;
+  }
+  
+  .home-page .text-wrapper-14 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 1009px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3881px;
+  }
+  
+  .home-page .text-wrapper-15 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 872px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3881px;
+  }
+  
+  .home-page .text-wrapper-16 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 682px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3881px;
+  }
+  
+  .home-page .frame-3 {
+    align-items: center;
+    background-color: #0d0f12;
+    border-radius: 20px;
+    box-shadow: 0px 19px 45px -10px #0d0f1280;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 1639px;
+    overflow: hidden;
+    padding: 22px 52px;
+    position: absolute;
+    top: 60px;
+  }
+  
+  .home-page .text-wrapper-17 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home-page .group-3 {
+    height: 204px;
+    left: 151px;
+    position: absolute;
+    top: 1186px;
+    width: 1618px;
+  }
+  
+  .home-page .spacex-logo {
+    height: 204px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 305px;
+  }
+  
+  .home-page .element-NASA-worm {
+    height: 31px;
+    left: 531px;
+    object-fit: cover;
+    position: absolute;
+    top: 87px;
+    width: 114px;
+  }
+  
+  .home-page .boeing-logo {
+    height: 149px;
+    left: 890px;
+    object-fit: cover;
+    position: absolute;
+    top: 28px;
+    width: 265px;
+  }
+  
+  .home-page .astroscale-main-logo {
+    height: 102px;
+    left: 1298px;
+    object-fit: cover;
+    position: absolute;
+    top: 51px;
+    width: 320px;
+  }
+  
+  .home-page .p {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 64px;
+    font-weight: 800;
+    left: 120px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1509px;
+    width: 573px;
+  }
+  
+  .home-page .text-wrapper-18 {
+    color: #171e27;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 941px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 1669px;
+    width: 336px;
+  }
+  
+  .home-page .text-wrapper-19 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 941px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1629px;
+  }
+  
+  .home-page .text-wrapper-20 {
+    color: #171e27;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 1381px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 1669px;
+    width: 336px;
+  }
+  
+  .home-page .text-wrapper-21 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 1381px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1629px;
+  }
+  
+  .home-page .text-wrapper-22 {
+    color: #171e27;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 941px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 2035px;
+    width: 336px;
+  }
+  
+  .home-page .text-wrapper-23 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 941px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1995px;
+  }
+  
+  .home-page .text-wrapper-24 {
+    color: #171e27;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 1381px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 2035px;
+    width: 359px;
+  }
+  
+  .home-page .text-wrapper-25 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 1381px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1995px;
+  }
+  
+  .home-page .physics-wrapper {
+    background-color: #a9c2cb;
+    border-radius: 24px;
+    height: 100px;
+    left: 941px;
+    position: absolute;
+    top: 1510px;
+    width: 100px;
+  }
+  
+  .home-page .physics {
+    background-image: url(https://c.animaapp.com/3oUarRBs/img/combo-shape-3.svg);
+    background-size: 100% 100%;
+    box-shadow: 0px 4px 7px #63757bcc;
+    height: 39px;
+    left: 31px;
+    position: relative;
+    top: 30px;
+    width: 39px;
+  }
+  
+  .home-page .telescope-wrapper {
+    background-color: #a9c2cb;
+    border-radius: 24px;
+    height: 100px;
+    left: 941px;
+    position: absolute;
+    top: 1876px;
+    width: 100px;
+  }
+  
+  .home-page .telescope {
+    background-image: url(https://c.animaapp.com/3oUarRBs/img/combo-shape-2.svg);
+    background-size: 100% 100%;
+    box-shadow: 0px 4px 7px #63757bcc;
+    height: 42px;
+    left: 28px;
+    position: relative;
+    top: 30px;
+    width: 42px;
+  }
+  
+  .home-page .clipboard-wrapper {
+    background-color: #a9c2cb;
+    border-radius: 24px;
+    height: 100px;
+    left: 1381px;
+    position: absolute;
+    top: 1510px;
+    width: 100px;
+  }
+  
+  .home-page .clipboard {
+    background-image: url(https://c.animaapp.com/3oUarRBs/img/combo-shape-1.svg);
+    background-size: 100% 100%;
+    box-shadow: 0px 4px 7px #63757bcc;
+    height: 40px;
+    left: 32px;
+    position: relative;
+    top: 30px;
+    width: 36px;
+  }
+  
+  .home-page .text-wrapper-26 {
+    color: #171e27;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 1452px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3881px;
+  }
+  
+  .home-page .terms-agreements {
+    color: #171e27;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 1621px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3881px;
+  }
+  
+  .home-page .contact-odyssey-com {
+    color: #5c4f4f;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 848px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3984px;
+  }
+  
+  .home-page .span {
+    color: #5c4f4f;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0;
+  }
+  
+  .home-page .text-wrapper-27 {
+    text-decoration: underline;
+  }
+  
+  .home-page .chart-pie-wrapper {
+    background-color: #a9c2cb;
+    border-radius: 24px;
+    height: 100px;
+    left: 1381px;
+    position: absolute;
+    top: 1876px;
+    width: 100px;
+  }
+  
+  .home-page .chart-pie-2 {
+    height: 54px;
+    left: 23px;
+    position: absolute;
+    top: 27px;
+    width: 54px;
+  }
+  
+  .home-page .overlap-4 {
+    height: 821px;
+    left: 120px;
+    position: absolute;
+    top: 2288px;
+    width: 1680px;
+  }
+  
+  .home-page .text-wrapper-28 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 64px;
+    font-weight: 800;
+    left: 230px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 79px;
+    width: 1220px;
+  }
+  
+  .home-page .rectangle-2 {
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0px 20px 39px -12px #63757c33;
+    height: 434px;
+    left: 110px;
+    position: absolute;
+    top: 387px;
+    width: 452px;
+  }
+  
+  .home-page .rectangle-3 {
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0px 20px 39px -12px #63757c33;
+    height: 434px;
+    left: 614px;
+    position: absolute;
+    top: 387px;
+    width: 452px;
+  }
+  
+  .home-page .rectangle-4 {
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0px 20px 39px -12px #63757c33;
+    height: 434px;
+    left: 1118px;
+    position: absolute;
+    top: 387px;
+    width: 452px;
+  }
+  
+  .home-page .text-wrapper-29 {
+    color: #171e27;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 162px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 628px;
+    width: 348px;
+  }
+  
+  .home-page .text-wrapper-30 {
+    color: #a9c2cb;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 64px;
+    font-weight: 800;
+    left: 162px;
+    letter-spacing: 0;
+    line-height: 90px;
+    position: absolute;
+    text-align: center;
+    top: 438px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-31 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 162px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 538px;
+    width: 348px;
+  }
+  
+  .home-page .text-wrapper-32 {
+    color: #171e27;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 666px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 628px;
+    width: 348px;
+  }
+  
+  .home-page .text-wrapper-33 {
+    color: #a9c2cb;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 64px;
+    font-weight: 800;
+    left: 666px;
+    letter-spacing: 0;
+    line-height: 90px;
+    position: absolute;
+    text-align: center;
+    top: 438px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-34 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 666px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 538px;
+    width: 348px;
+  }
+  
+  .home-page .text-wrapper-35 {
+    color: #171e27;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 1170px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 628px;
+    width: 348px;
+  }
+  
+  .home-page .text-wrapper-36 {
+    color: #a9c2cb;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 64px;
+    font-weight: 800;
+    left: 1170px;
+    letter-spacing: 0;
+    line-height: 90px;
+    position: absolute;
+    text-align: center;
+    top: 438px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-37 {
+    color: #020305;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 1170px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 538px;
+    width: 348px;
+  }
+  
+  .home-page .overlap-5 {
+    background-image: url(https://c.animaapp.com/3oUarRBs/img/rectangle-504.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 533px;
+    left: 120px;
+    position: absolute;
+    top: 3229px;
+    width: 1680px;
+  }
+  
+  .home-page .text-wrapper-38 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 120px;
+    letter-spacing: 0;
+    line-height: 34.5px;
+    position: absolute;
+    top: 213px;
+    width: 735px;
+  }
+  
+  .home-page .text-wrapper-39 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 64px;
+    font-weight: 800;
+    left: 120px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 120px;
+  }
+  
+  .home-page .frame-4 {
+    align-items: center;
+    background-color: var(--a-9c-2cb);
+    border-radius: 20px;
+    box-shadow: 0px 19px 45px -10px #0d0f1280;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 793px;
+    overflow: hidden;
+    padding: 26px 54px;
+    position: absolute;
+    top: 331px;
+  }
+  
+  .home-page .frame-5 {
+    align-items: center;
+    background-color: var(--ffffff);
+    border-radius: 24px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    left: 120px;
+    overflow: hidden;
+    padding: 26px 32px;
+    position: absolute;
+    top: 331px;
+    width: 649px;
+  }
+  
+  .home-page .text-wrapper-40 {
+    color: #171e2780;
+    flex: 1;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+  }
+  
